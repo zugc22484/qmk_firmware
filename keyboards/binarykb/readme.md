@@ -2,10 +2,8 @@
 
 ![binarykb](imgur.com image replace me!)
 
-A short description of the keyboard/project
-
-* Keyboard Maintainer: [zugc22484](https://github.com/yourusername)
-* Hardware Supported: The PCBs, controllers supported
+a 2% keyboard with 
+* Keyboard Maintainer: [rapidkillerx](https://github.com/zugc22484)
 * Hardware Availability: Links to where you can find this hardware
 
 Make example for this keyboard (after setting up your build environment):
