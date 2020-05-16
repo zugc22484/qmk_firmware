@@ -2,7 +2,7 @@
 
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    [0] = layout_DEFAULT(
+    [0] = LAYOUT_default(
         KC_P0,
         KC_P1 
         )

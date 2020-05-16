@@ -29,6 +29,6 @@
 #define LAYOUT_default( \
   K00, K01  \
 ) { \
-  { K00, K01 }, \
+  { K00, K01 } \
 }
 

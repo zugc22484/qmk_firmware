@@ -1,5 +1,6 @@
 # MCU name
 MCU = atmega32u2
+F_CPU = 16000000
 
 # Bootloader selection
 #   Teensy       halfkay

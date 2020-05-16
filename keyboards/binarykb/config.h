@@ -21,15 +21,15 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID 0xFEED
-#define PRODUCT_ID 0x0000
+#define PRODUCT_ID 0x6969
 #define DEVICE_VER 0x0001
 #define MANUFACTURER zugc22484
 #define PRODUCT binarykb
 #define DESCRIPTION A custom keyboard
 
 /* key matrix size */
-#define MATRIX_ROWS 2
-#define MATRIX_COLS 1
+#define MATRIX_ROWS 1
+#define MATRIX_COLS 2
 
 /*
  * Keyboard Matrix Assignments
@@ -42,8 +42,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
 #define DIRECT_PINS { \
-    {D4}, \
-    {C6}  \
+    {B4, B4}, \
 }
 #define UNUSED_PINS
 
